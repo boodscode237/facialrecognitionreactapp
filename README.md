@@ -5,3 +5,8 @@ The app is recognize the face from a link. I did it a year ago and I wasnt able 
 Used React, ParticleJs and clarifai for the recognition job
 
 
+
+
+
+https://user-images.githubusercontent.com/65740750/155846169-6b165b78-3a3c-40d7-9aff-04887e5015eb.mp4
+
